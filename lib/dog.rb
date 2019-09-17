@@ -1,3 +1,3 @@
-class Dog(breed)
-  def initialize(breed)
+class Dog(dog)
+  def initialize(name)
 end
